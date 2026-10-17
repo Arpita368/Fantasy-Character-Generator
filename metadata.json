@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Character Generator",
+  "description": "Forge unique fantasy adventurers with procedural names, classes, attributes, lore, and collectible player cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
